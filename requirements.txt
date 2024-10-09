@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-werkzeug~=2.2.2
+werkzeug~=3.0.4
 Flask~=2.2.2
 flask-restx
 flask_limiter~=2.8.1
